@@ -2,6 +2,7 @@
 
 Olá! Bem vindo ao meu livro de receitas :wave:
 
-- Frango
-- Caruru
-- Vatapá
+- Frango Grelhado	
+- Caruru e Vatapá
+- Ensopado de Boi
+- Moqueca de Camarão
